@@ -5,7 +5,7 @@ Logger = {
     //
     // package version which can be queried using Logger.version in the console window
     //
-    version: '1.0.1',
+    version: '1.0.2',
 
     //
     // log modes - logging can then be filtered using a regular expression

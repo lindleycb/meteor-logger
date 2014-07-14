@@ -1,0 +1,8 @@
+{
+    "name": "logger",
+    "description": 'A simple project to provide runtime configurable log messaging to your meteor apps',
+    "homepage": "https://github.com/lindleycb/meteor-logger",
+    "git": "https://github.com/lindleycb/meteor-logger.git",
+    "author": "Chris Lindley (http://www.zuuk.com)",
+    "version": "1.0.2"
+}
